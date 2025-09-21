@@ -2,3 +2,4 @@ hajiminonanbeilvdou.
 hajimihajimi
 abc
 def
+Creating a new branch is quick & simple.
